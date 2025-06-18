@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# ajio-clone
-# AJIO Clone  A React-based e-commerce UI clone inspired by AJIO.  ## Features - Responsive navigation bar with dropdowns - Login modal - Footer with styled-components - React Router navigation  ## Getting Started  1. Clone the repo:
-=======
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
